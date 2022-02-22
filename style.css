@@ -12,6 +12,11 @@ img{
     height: 10rem;
     border:2px solid skyblue;
 }
+img:hover{
+    width: 20rem;
+    height: 20rem;
+    transition: 1s;
+}
 
 a{
     text-decoration: none;
@@ -83,10 +88,7 @@ a{
     border-radius: 0.8rem ;
     width: 90%;
     margin-left:5%;
-
-
-    
-   
+      
      
 }
 
